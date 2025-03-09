@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Pujun Zhang"
 description              : &description "personal description"
