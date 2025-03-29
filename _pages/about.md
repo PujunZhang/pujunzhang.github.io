@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pujun Zhang - Personal Home Page"
+title: "Pujun Zhang"
 author_profile: true
 redirect_from: 
   - /about/
